@@ -7,3 +7,4 @@ This is my Unreal Engine project.
 3. Create custom ammo pickup models
 4. Create simple westen landscape to replace default box setting
 5. Create dummy that can take
+6. Reparent weapon base to Pickup base to inherit text identifier logic
